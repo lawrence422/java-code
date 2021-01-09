@@ -5,9 +5,8 @@ public class Main {
     public static void main(String[] args) {
         int a,b,c;
         int j=4;
-        boolean test=false;
         double pi=3.14159;
-		System.out.println("test:"+test);
+        int d=0b11010100;
 	    System.out.println("my master branch.");
 	    System.out.println("branch1\n");
 		System.out.println("int:"+j);
