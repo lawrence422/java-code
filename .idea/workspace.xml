@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4dfa90d-0b38-4933-8698-1f26136d0a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/digital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/system_in.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,19 +117,9 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.digital">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="java" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="digital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.digital" />
+  <component name="RunManager" selected="Application.system_in">
+    <configuration name="main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.main2" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -141,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.main2" />
+    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.practice" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -167,24 +157,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="system_in" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.system_in" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.test" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.digital" />
+        <item itemvalue="Application.system_in" />
+        <item itemvalue="Application.practice" />
         <item itemvalue="Application.practice3" />
         <item itemvalue="Application.main2" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +217,13 @@
       <workItem from="1610349037228" duration="109000" />
       <workItem from="1610349411836" duration="5786000" />
       <workItem from="1610532246799" duration="1002000" />
-      <workItem from="1610533266424" duration="6001000" />
+      <workItem from="1610533266424" duration="6139000" />
+      <workItem from="1610604384516" duration="8278000" />
+      <workItem from="1610710491881" duration="2027000" />
+      <workItem from="1610718744102" duration="2802000" />
+      <workItem from="1610809192960" duration="679000" />
+      <workItem from="1610810605362" duration="946000" />
+      <workItem from="1611137885251" duration="4109000" />
     </task>
     <task id="LOCAL-00001" summary="branch4">
       <created>1609675389155</created>
@@ -229,7 +253,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610176412439</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="unit4">
+      <created>1610554552282</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610554552282</updated>
+    </task>
+    <task id="LOCAL-00006" summary="short circuit">
+      <created>1610608662539</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610608662539</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +284,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/branch4" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -266,6 +304,7 @@
     <MESSAGE value="branch7" />
     <MESSAGE value="correct" />
     <MESSAGE value="unit4" />
-    <option name="LAST_COMMIT_MESSAGE" value="unit4" />
+    <MESSAGE value="short circuit" />
+    <option name="LAST_COMMIT_MESSAGE" value="short circuit" />
   </component>
 </project>

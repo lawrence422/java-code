@@ -17,8 +17,7 @@ public class main2 {
         for (i=97;i<100;i++) {
             ch = (char) i;
             System.out.print(i+"\t");
-            System.out.print(Integer.toHexString(i)+"\t");
-            System.out.print(ch);
+            System.out.print(Integer.toHexString(i)+"\t"+ch);
             System.out.print("\t");
             if(i%20==0){
                 System.out.print('\n');
@@ -27,3 +26,4 @@ public class main2 {
     }
 
 }
+
