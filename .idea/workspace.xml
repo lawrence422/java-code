@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4dfa90d-0b38-4933-8698-1f26136d0a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/system_in.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/java5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/practice4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/practice4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,15 +110,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.system_in">
+  <component name="RunManager" selected="Application.java5">
+    <configuration name="java5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java5" />
+      <module name="java_basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.main2" />
       <module name="java" />
@@ -131,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.practice" />
+    <configuration name="practice4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.practice4_1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -144,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.practice3" />
+    <configuration name="practice4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.practice4_2" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -157,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="system_in" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.system_in" />
+    <configuration name="practice4_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.practice4_7" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -170,39 +181,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.test" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.system_in" />
-        <item itemvalue="Application.practice" />
-        <item itemvalue="Application.practice3" />
+        <item itemvalue="Application.java5" />
         <item itemvalue="Application.main2" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.practice4_7" />
+        <item itemvalue="Application.practice4_2" />
+        <item itemvalue="Application.practice4_1" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +219,13 @@
       <workItem from="1610718744102" duration="2802000" />
       <workItem from="1610809192960" duration="679000" />
       <workItem from="1610810605362" duration="946000" />
-      <workItem from="1611137885251" duration="4109000" />
+      <workItem from="1611137885251" duration="9667000" />
+      <workItem from="1611319081907" duration="1323000" />
+      <workItem from="1613194526023" duration="1335000" />
+      <workItem from="1613196555652" duration="287000" />
+      <workItem from="1613196857779" duration="3503000" />
+      <workItem from="1613380791369" duration="131000" />
+      <workItem from="1613380980407" duration="651000" />
     </task>
     <task id="LOCAL-00001" summary="branch4">
       <created>1609675389155</created>
@@ -267,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610608662539</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1/20">
+      <created>1611155419471</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611155419471</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,6 +314,19 @@
     <MESSAGE value="correct" />
     <MESSAGE value="unit4" />
     <MESSAGE value="short circuit" />
-    <option name="LAST_COMMIT_MESSAGE" value="short circuit" />
+    <MESSAGE value="1/20" />
+    <MESSAGE value="module" />
+    <option name="LAST_COMMIT_MESSAGE" value="module" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java_basic/src/java5.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
