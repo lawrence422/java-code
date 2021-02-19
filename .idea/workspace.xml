@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4dfa90d-0b38-4933-8698-1f26136d0a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java_basic/src/compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_basic/src/diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_basic/src/loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_basic/src/max25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_basic/src/prime_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/formula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/integer_parse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/park.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,14 +121,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.diamond">
-    <configuration name="compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compare" />
-      <module name="java_basic" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.sort">
     <configuration name="diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="diamond" />
       <module name="java_basic" />
@@ -137,22 +129,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java5" />
+    <configuration name="formula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="formula" />
       <module name="java_basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="max25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="max25" />
+    <configuration name="integer_parse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="integer_parse" />
       <module name="java_basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prime_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prime_number" />
+    <configuration name="park" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="park" />
+      <module name="java_basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort" />
       <module name="java_basic" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -173,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sort" />
+        <item itemvalue="Application.park" />
+        <item itemvalue="Application.integer_parse" />
+        <item itemvalue="Application.formula" />
         <item itemvalue="Application.diamond" />
-        <item itemvalue="Application.prime_number" />
-        <item itemvalue="Application.max25" />
-        <item itemvalue="Application.java5" />
-        <item itemvalue="Application.compare" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +206,11 @@
       <workItem from="1613380980407" duration="2105000" />
       <workItem from="1613543457758" duration="2998000" />
       <workItem from="1613546495305" duration="3671000" />
-      <workItem from="1613575005896" duration="5701000" />
+      <workItem from="1613575005896" duration="6278000" />
+      <workItem from="1613642017948" duration="4469000" />
+      <workItem from="1613676028296" duration="1217000" />
+      <workItem from="1613723175462" duration="917000" />
+      <workItem from="1613724146340" duration="1716000" />
     </task>
     <task id="LOCAL-00001" summary="branch4">
       <created>1609675389155</created>
@@ -272,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613382979687</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2/18">
+      <created>1613581780889</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613581780889</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,6 +323,7 @@
     <MESSAGE value="1/20" />
     <MESSAGE value="module" />
     <MESSAGE value="2/15" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/15" />
+    <MESSAGE value="2/18" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/18" />
   </component>
 </project>
