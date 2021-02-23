@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4dfa90d-0b38-4933-8698-1f26136d0a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java_basic/src/formula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_basic/src/integer_parse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_basic/src/park.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_basic/src/sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_advanced/java_advanced.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_advanced/src/call_by_reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_advanced/src/compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_advanced/src/object_oriented_program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_advanced/src/power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/java_basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,9 +112,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java_advanced" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -121,31 +126,31 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.sort">
-    <configuration name="diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="diamond" />
-      <module name="java_basic" />
+  <component name="RunManager" selected="Application.power">
+    <configuration name="call_by_reference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="call_by_reference" />
+      <module name="java_advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="formula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="formula" />
-      <module name="java_basic" />
+    <configuration name="compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compare" />
+      <module name="java_advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="integer_parse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="integer_parse" />
-      <module name="java_basic" />
+    <configuration name="object_oriented_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object_oriented_program" />
+      <module name="java_advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="park" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="park" />
-      <module name="java_basic" />
+    <configuration name="power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="power" />
+      <module name="java_advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,26 +162,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.power" />
+        <item itemvalue="Application.call_by_reference" />
+        <item itemvalue="Application.compare" />
+        <item itemvalue="Application.object_oriented_program" />
         <item itemvalue="Application.sort" />
-        <item itemvalue="Application.park" />
-        <item itemvalue="Application.integer_parse" />
-        <item itemvalue="Application.formula" />
-        <item itemvalue="Application.diamond" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +213,12 @@
       <workItem from="1613642017948" duration="4469000" />
       <workItem from="1613676028296" duration="1217000" />
       <workItem from="1613723175462" duration="917000" />
-      <workItem from="1613724146340" duration="1716000" />
+      <workItem from="1613724146340" duration="1881000" />
+      <workItem from="1613899282023" duration="732000" />
+      <workItem from="1613902218030" duration="3627000" />
+      <workItem from="1613986687835" duration="6127000" />
+      <workItem from="1614100189885" duration="2339000" />
+      <workItem from="1614105424187" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="branch4">
       <created>1609675389155</created>
@@ -282,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613581780889</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2/19">
+      <created>1613730057794</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1613730057794</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +339,7 @@
     <MESSAGE value="module" />
     <MESSAGE value="2/15" />
     <MESSAGE value="2/18" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/18" />
+    <MESSAGE value="2/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/19" />
   </component>
 </project>
