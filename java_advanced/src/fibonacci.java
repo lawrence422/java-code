@@ -1,7 +1,7 @@
 import java.io.*;
 
 class math {
-    long c_fibonacci(long []a,int n) {
+    long c_fibonacci(long a[],int n) {
         if(a[n]==0) {
             if (n <= 2) {
                 a[n] = 1;
@@ -15,7 +15,7 @@ class math {
 
 public class fibonacci {
     public static void main(String... argv) throws IOException {
-        long []a = new long[100];
+        long a[] = new long[100];
         int n;
         math m = new math();
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
