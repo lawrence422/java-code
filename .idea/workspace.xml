@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4dfa90d-0b38-4933-8698-1f26136d0a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/java_advanced.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/call_by_reference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/object_oriented_program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_basic/java_basic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_advanced/src/fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,8 +118,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.power">
+  <component name="RunManager" selected="Application.fibonacci">
     <configuration name="call_by_reference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="call_by_reference" />
       <module name="java_advanced" />
@@ -136,6 +130,13 @@
     </configuration>
     <configuration name="compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="compare" />
+      <module name="java_advanced" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fibonacci" />
       <module name="java_advanced" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -155,31 +156,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort" />
-      <module name="java_basic" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fibonacci" />
         <item itemvalue="Application.power" />
         <item itemvalue="Application.call_by_reference" />
         <item itemvalue="Application.compare" />
         <item itemvalue="Application.object_oriented_program" />
-        <item itemvalue="Application.sort" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +214,8 @@
       <workItem from="1613902218030" duration="3627000" />
       <workItem from="1613986687835" duration="6127000" />
       <workItem from="1614100189885" duration="2339000" />
-      <workItem from="1614105424187" duration="606000" />
+      <workItem from="1614105424187" duration="2330000" />
+      <workItem from="1614171908034" duration="11829000" />
     </task>
     <task id="LOCAL-00001" summary="branch4">
       <created>1609675389155</created>
@@ -297,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613730057794</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2/24">
+      <created>1614107880044</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1614107880044</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,6 +344,7 @@
     <MESSAGE value="2/15" />
     <MESSAGE value="2/18" />
     <MESSAGE value="2/19" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/19" />
+    <MESSAGE value="2/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/24" />
   </component>
 </project>
