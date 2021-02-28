@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4dfa90d-0b38-4933-8698-1f26136d0a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/quick_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +109,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java_advanced" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/white_board" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -156,13 +157,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -216,7 +219,10 @@
       <workItem from="1614171908034" duration="12715000" />
       <workItem from="1614274176439" duration="633000" />
       <workItem from="1614278683456" duration="1082000" />
-      <workItem from="1614358001555" duration="14179000" />
+      <workItem from="1614358001555" duration="14709000" />
+      <workItem from="1614469736675" duration="244000" />
+      <workItem from="1614469991791" duration="335000" />
+      <workItem from="1614470338611" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="branch4">
       <created>1609675389155</created>
@@ -323,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614190960828</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2/27">
+      <created>1614379738620</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1614379738620</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,6 +381,7 @@
     <MESSAGE value="2/19" />
     <MESSAGE value="2/24" />
     <MESSAGE value="2/25" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/25" />
+    <MESSAGE value="2/27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/27" />
   </component>
 </project>
