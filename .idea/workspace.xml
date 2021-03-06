@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4dfa90d-0b38-4933-8698-1f26136d0a23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/INFO1113/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INFO1113/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INFO1113/Question_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INFO1113/Question_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INFO1113/Question_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INFO1113/Question_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INFO1113/Question_6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INFO1113/Question_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INFO1113/Question_7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/INFO1113/Question_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_advanced/src/hanoi_tower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_basic/src/fractional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/Question_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/arg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/arg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/quick_sort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/white_board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_basic/src/java5.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_basic/src/java5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,12 +126,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/white_board" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/INFO1113" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -121,10 +144,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.quick_sort">
-    <configuration name="call_by_reference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="call_by_reference" />
-      <module name="java_advanced" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\program\java\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.fractional">
+    <configuration name="Question_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question_4" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,47 +164,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fibonacci" />
-      <module name="java_advanced" />
+    <configuration name="fractional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fractional" />
+      <module name="java_basic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="power" />
-      <module name="java_advanced" />
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quick_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quick_sort" />
-      <module name="java_advanced" />
+    <configuration name="white_board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="white_board" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.quick_sort" />
-        <item itemvalue="Application.fibonacci" />
-        <item itemvalue="Application.power" />
-        <item itemvalue="Application.call_by_reference" />
+        <item itemvalue="Application.fractional" />
+        <item itemvalue="Application.white_board" />
+        <item itemvalue="Application.test2" />
         <item itemvalue="Application.compare" />
+        <item itemvalue="Application.Question_4" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +249,13 @@
       <workItem from="1614469736675" duration="244000" />
       <workItem from="1614469991791" duration="335000" />
       <workItem from="1614470338611" duration="46000" />
+      <workItem from="1614470392640" duration="2673000" />
+      <workItem from="1614529048001" duration="11621000" />
+      <workItem from="1614649798362" duration="5029000" />
+      <workItem from="1614655017198" duration="3225000" />
+      <workItem from="1614699670422" duration="1406000" />
+      <workItem from="1614723237909" duration="14344000" />
+      <workItem from="1615062493518" duration="2785000" />
     </task>
     <task id="LOCAL-00001" summary="branch4">
       <created>1609675389155</created>
@@ -336,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614379738620</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2/28">
+      <created>1614470537815</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1614470537815</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,6 +407,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="branch4" />
     <MESSAGE value="merge" />
     <MESSAGE value="branch6" />
@@ -382,6 +423,7 @@
     <MESSAGE value="2/24" />
     <MESSAGE value="2/25" />
     <MESSAGE value="2/27" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/27" />
+    <MESSAGE value="2/28" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/28" />
   </component>
 </project>
