@@ -2,31 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4dfa90d-0b38-4933-8698-1f26136d0a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/INFO1113/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INFO1113/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INFO1113/Question_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INFO1113/Question_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INFO1113/Question_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INFO1113/Question_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INFO1113/Question_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INFO1113/Question_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INFO1113/Question_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INFO1113/Question_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_advanced/src/hanoi_tower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_basic/src/fractional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/Question_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/arg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/arg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/quick_sort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/white_board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9103/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9103/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9103/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9103/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9103/9103.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9103/src/W2Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9103/src/W2Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9103/src/W2Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9103/src/W2Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9103/src/W2Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9103/src/W2Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_basic/src/java5.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_basic/src/java5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INFO1113/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INFO1113/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INFO1113/Question_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INFO1113/Question_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INFO1113/Question_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INFO1113/Question_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INFO1113/Question_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INFO1113/Question_6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INFO1113/Question_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INFO1113/Question_7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_basic/src/fractional.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_basic/src/fractional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_basic/java5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_basic/java5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Question_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Question_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/arg.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/arg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +136,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/INFO1113" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/9103" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -149,7 +153,7 @@
       <recent name="D:\program\java\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.fractional">
+  <component name="RunManager" selected="Application.Question_4">
     <configuration name="Question_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question_4" />
       <module name="test" />
@@ -157,52 +161,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compare" />
-      <module name="java_advanced" />
+    <configuration name="W2Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W2Q3" />
+      <module name="9103" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fractional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fractional" />
-      <module name="java_basic" />
+    <configuration name="W2Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W2Q5" />
+      <module name="9103" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test2" />
+    <configuration name="arg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arg" />
       <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="white_board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="white_board" />
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test4" />
       <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.fractional" />
-        <item itemvalue="Application.white_board" />
-        <item itemvalue="Application.test2" />
-        <item itemvalue="Application.compare" />
         <item itemvalue="Application.Question_4" />
+        <item itemvalue="Application.W2Q3" />
+        <item itemvalue="Application.arg" />
+        <item itemvalue="Application.test4" />
+        <item itemvalue="Application.W2Q5" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +261,12 @@
       <workItem from="1614655017198" duration="3225000" />
       <workItem from="1614699670422" duration="1406000" />
       <workItem from="1614723237909" duration="14344000" />
-      <workItem from="1615062493518" duration="2785000" />
+      <workItem from="1615062493518" duration="3166000" />
+      <workItem from="1615077364479" duration="652000" />
+      <workItem from="1615163884421" duration="1784000" />
+      <workItem from="1615233777994" duration="29089000" />
+      <workItem from="1615326847619" duration="8281000" />
+      <workItem from="1615349313607" duration="3435000" />
     </task>
     <task id="LOCAL-00001" summary="branch4">
       <created>1609675389155</created>
@@ -376,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614470537815</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="3/7">
+      <created>1615065603690</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1615065603690</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,6 +442,7 @@
     <MESSAGE value="2/25" />
     <MESSAGE value="2/27" />
     <MESSAGE value="2/28" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/28" />
+    <MESSAGE value="3/7" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/7" />
   </component>
 </project>

@@ -1,12 +1,12 @@
 import java.util.*;
 
-public class Question_4 {
+public class W2C7 {
     public static int[][] mult(int widthOfA, int heightOfA, int widthOfB, int heightOfB, int[][] A, int[][] B) {
         if (widthOfA != heightOfB) {
             System.out.println("Invalid input.");
             return null;
         }
-        if (A == null || B == null||widthOfA==0||widthOfB==0||heightOfA==0||heightOfB==0) {
+        if (A == null || B == null || widthOfA == 0 || widthOfB == 0 || heightOfA == 0 || heightOfB == 0) {
             System.out.println("0");
             return null;
         }
@@ -56,9 +56,6 @@ public class Question_4 {
 
     }
 }
-//3 2 5 3
-//        5 3 10
-//        7 9 9
-//        10 2 3 8 12
-//        7 4 11 3 6
-//        8 8 1 14 3
+//    Matrix Multiplication
+//    Matrix multiplication is a mathematical procedure that produces a resultant matrix from two input matrices.
+
