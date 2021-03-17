@@ -2,60 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56a54993-4645-445c-be9f-8c8b0b0f1d15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9103.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1C/W1C.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1C/src/W1C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1C/src/W1C2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1C/src/W1C3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1C/src/W1C4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1C/src/W1C5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1C/src/W1C6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1T/W1T.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1T/src/W1Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1T/src/W1Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1T/src/W1Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1T/src/W1Q6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1T/src/W1Q7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2C/src/W2C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2C/src/W2C2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2C/src/W2C3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2C/src/W2C4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2C/src/W2C5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2C/src/W2C6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2C/src/W2C7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2C/src/W2C8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2T/W2T.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2T/src/W2Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2T/src/W2Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2T/src/W2Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2T/src/W2Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2T/src/W2Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W2T/src/W2Q6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INFO1113/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INFO1113/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INFO1113/Question_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INFO1113/Question_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INFO1113/Question_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INFO1113/Question_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INFO1113/Question_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INFO1113/Question_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INFO1113/Question_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INFO1113/Question_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_basic/src/fractional.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_basic/src/fractional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/java_basic/java5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/java_basic/java5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/Question_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/Question_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/arg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/arg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/src/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2C/W2C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/W2Q5test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9103Task/src/Task/src/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,21 +42,44 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../9103Task" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\program\java\9103Task\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\program\java\9103Task" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.W2C8">
+  <component name="RunManager" selected="Application.Shapes">
+    <configuration name="Shapes (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shapes" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shapes" />
+      <module name="Task" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="W2C2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="W2C2" />
       <module name="W2C" />
@@ -108,30 +87,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="W2C3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2C3" />
-      <module name="W2C" />
+    <configuration name="W2Q5test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="W2Q5test" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="W2C4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2C4" />
-      <module name="W2C" />
+    <configuration name="loop" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="W2C6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2C6" />
-      <module name="W2C" />
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="W2C8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="W2C8" />
-      <module name="W2C" />
+    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test3" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -149,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.W2C8" />
-        <item itemvalue="Application.W2C6" />
-        <item itemvalue="Application.W2C4" />
-        <item itemvalue="Application.W2C3" />
+        <item itemvalue="Application.Shapes" />
+        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.test3" />
         <item itemvalue="Application.W2C2" />
+        <item itemvalue="Application.W2Q5test" />
       </list>
     </recent_temporary>
   </component>
@@ -166,8 +145,29 @@
       <option name="presentableId" value="Default" />
       <updated>1615352719079</updated>
       <workItem from="1615352720187" duration="14000" />
-      <workItem from="1615352776244" duration="12346000" />
+      <workItem from="1615352776244" duration="12414000" />
+      <workItem from="1615437188515" duration="595000" />
+      <workItem from="1615440183672" duration="869000" />
+      <workItem from="1615546653746" duration="1395000" />
+      <workItem from="1615714058030" duration="2578000" />
+      <workItem from="1615729756922" duration="2175000" />
+      <workItem from="1615776775951" duration="519000" />
+      <workItem from="1615809062564" duration="14771000" />
+      <workItem from="1615850849741" duration="25225000" />
+      <workItem from="1615886384125" duration="3701000" />
+      <workItem from="1615901840888" duration="322000" />
+      <workItem from="1615938408857" duration="1300000" />
+      <workItem from="1615940610870" duration="2345000" />
+      <workItem from="1615946367108" duration="815000" />
     </task>
+    <task id="LOCAL-00001" summary="3/10">
+      <created>1615365555397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615365555397</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
